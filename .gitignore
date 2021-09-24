@@ -1,0 +1,11 @@
+# Visual Studio Code
+#
+.vscode/
+
+#node
+#
+node_modules/
+
+#Dependecies
+#
+yarn.lock
